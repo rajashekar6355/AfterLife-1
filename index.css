@@ -248,6 +248,7 @@ ul {
   }
   #check:checked ~ .navbar{
     opacity: 1;
+    transition: opacity 0.8s ease-in;
   }
   
 }
